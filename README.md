@@ -1,4 +1,4 @@
-# AD_project
+# Deep Learning for Alzheimer’s Disease Drug Repurposing using Knowledge Graph and Multi-level Evidence 
 Code implementation \
 1.Please Download data from https://drive.google.com/file/d/1j0PNJglRcx7Pis3_rOtJcQTpUUsazl5K/view?usp=sharing and contact author to grant permission \
 2.Please run Drug_simlarity_search and Drug_enricher_search first \ 
