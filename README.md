@@ -14,3 +14,6 @@ AD-KG is a comprehensive knowledge graph relating genes, drugs, pathway, and phe
 5.Please run Pre_process \
 6.Please run GNN_training \
 7.Please run Multiple_task_reranking 
+
+## Licence
+This project is licensed under the Apache-2.0 License. However, the DRKG integrates data from many resources and users should consider the licensing of each source (see this [table](https://github.com/shuix007/COVID-19-KG/blob/master/licenses/Readme.md)) . We apply a license attribute on a per node and per edge basis for sources with defined licenses. 
