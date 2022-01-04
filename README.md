@@ -7,7 +7,7 @@ AD-KG is a comprehensive knowledge graph relating genes, drugs, pathway, and phe
 </p>	
 
 # Code implementation	#
-1.Please Download data from https://drive.google.com/file/d/1j0PNJglRcx7Pis3_rOtJcQTpUUsazl5K/view?usp=sharing and contact author to grant permission \
+1.Please Download data from https://zenodo.org/record/5818360#.YdSHLdnMIXA \
 2.Please run Drug_simlarity_search and Drug_enricher_search first\
 3.Please Download STRING from https://string-db.org \
 4.Please Download PCGrad from https://github.com/WeiChengTseng/Pytorch-PCGrad \
